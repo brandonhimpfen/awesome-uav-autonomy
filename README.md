@@ -1,4 +1,4 @@
-# Awesome UAV Autonomy [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome UAV Autonomy [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1113484077.svg)](https://doi.org/10.5281/zenodo.19682086)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -127,11 +127,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome UAV & Drone AI](https://github.com/awesomelistsio/awesome-uav-drone-ai)
-- [Awesome Robotics](https://github.com/awesomelistsio/awesome-robotics)
-- [Awesome Computer Vision](https://github.com/awesomelistsio/awesome-computer-vision)
-- [Awesome Reinforcement Learning](https://github.com/awesomelistsio/awesome-reinforcement-learning)
-- [Awesome Autonomous Systems](https://github.com/awesomelistsio/awesome-autonomous-systems)
+- [Awesome UAV & Drone AI](https://github.com/brandonhimpfen/awesome-uav-drone-ai)
+- [Awesome Robotics](https://github.com/brandonhimpfen/awesome-robotics)
+- [Awesome Computer Vision](https://github.com/brandonhimpfen/awesome-computer-vision)
+- [Awesome Reinforcement Learning](https://github.com/brandonhimpfen/awesome-reinforcement-learning)
+- [Awesome Autonomous Systems](https://github.com/brandonhimpfen/awesome-autonomous-systems)
 
 ## Contribute
 
